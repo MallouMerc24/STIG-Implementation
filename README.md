@@ -1,0 +1,1 @@
+# DoD-STIG-Security-Technical-Implementation-Guide-10-Automated-Implementations
